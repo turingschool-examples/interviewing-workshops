@@ -1,5 +1,6 @@
 
-# Interviewing Workshops & Job Hunting Resources (🚧 UNDER CONSTRUCTION 🚧)
+# Interviewing Workshops & Job Hunting Resources 
+# (🚧 UNDER CONSTRUCTION 🚧)
 
 ## This repository is home to various interviewing and job hunt resources, primarily including 3 workshops designed to be completed solo or in groups. This repository was created explicitly for job-seeking alumni and Mod 4 students and has activities to meet the needs of various stages of a career. 
 
@@ -119,11 +120,11 @@ Some benefits to peer assessment are:
 
 ### Assessing is the most important part of this activity
 
-- Practicing a skill a lot can be futile if you're practicing in the wrong way or practicing the wrong thing. By observing and objectively making judgements about the performance, you can use the feedback generated from that observation to improve. 
+- Practicing a skill can be futile if you're practicing in the wrong way or practicing the wrong thing. By observing and objectively making judgements about the performance, you can use the feedback generated from that observation to improve. 
 - To learn more about skill building, consider reading: Practice Perfect: 42 Rules for Getting Better at Getting Better
 
 ### Why is this a GitHub repository and not an article? 
 
-- So that you can contribute! 
+- So you can contribute! 
   - Contributions look good on your GitHub profile. Your GitHub profile is a factor in your job hunt!
   - Your contributions can help this repo improve and be more helpful to others who are hunting for work. 
