@@ -98,11 +98,11 @@ This article overviews some examples of networking opportunities in Denver. You'
 
 Some ideas to get involved are:
 
-- add notes and resources via a Pull Request. Please see Contribution Guidelines TODO
+- add notes and resources via a Pull Request. Please see Contribution Guidelines [here](./CONTRIBUTIONS.md)
 - create issues to ask for help, assistance, guidance, practice buddies, and reviews on your videos. 
   - No seriously, if you want others to review your recording, please feel free to open up an issue and ask others for their feedback! 
 - fork this repo to make your own notes and changes
-- **star this repo so we know you found it useful and we can keep it maintained. **
+- **star this repo so we know you found it useful and we can keep it maintained.**
 
 <div align="center">
   <br/>

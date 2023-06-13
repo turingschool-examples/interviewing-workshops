@@ -1,6 +1,6 @@
 # Behavioral and Technical Talk Interview Workshop
 
-TODO
+Coming Soon:
 - video walk through
 
 ## 💻 Solo Instructions:
