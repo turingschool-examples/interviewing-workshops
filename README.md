@@ -2,7 +2,7 @@
 ![Interviewing Workshops & Job Hunting Resources](./assets/banner.png "Interviewing Workshops & Job Hunting Resources")
 🚧 UNDER CONSTRUCTION 🚧
 
-## This repository is home to various interviewing and job hunt resources, primarily including 3 workshops designed to be completed solo or in groups. This repository was created explicitly for job-seeking alumni and Mod 4 students and has activities to meet the needs of various stages of a career. 
+## This repository is home to various interviewing and job hunting resources, primarily including 3 workshops designed to be completed solo or in groups. This repository was created explicitly for job-seeking alumni and Mod 4 students and has activities to meet the needs of various stages of a career. 
 
 ## As Turing community members, please feel welcome to make PRs to add additional resources, fixes, adjustments or to interact witht this repository. 
 
