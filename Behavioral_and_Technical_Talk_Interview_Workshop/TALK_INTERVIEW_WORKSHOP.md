@@ -20,6 +20,8 @@ Coming Soon:
 - Reflect on your scores and identify areas to improve
 - Practice the areas you identified as areas to improve
 
+- NOTE: the PDF version of the rubric is available [here](./Behavioral_and_Technical_Talk_Interview_Rubric.pdf)
+
 ## 🗣️ Group Instructions:
 
 - Gather a small group (3-8 people)
@@ -36,6 +38,8 @@ Coming Soon:
 - During the interview, use the [rubric](./Behavioral_and_Technical_Talk_Interview_Rubric.docx) to assess the interviewee's performance
 - Provide feedback to the interviewee
 - Repeat with other people in each role
+
+- NOTE: the PDF version of the rubric is available [here](./Behavioral_and_Technical_Talk_Interview_Rubric.pdf)
 
 ## ✅ What's the goal of this? 
 
