@@ -42,13 +42,20 @@ Click the image below to see a video introduction.
 
 Use this workhop to improve your performance in talking interviews. 
 
-## Live Coding Challenge Interview (COMING SOON)
+## [Live Coding Challenge Interview](./Live_Coding_Interview_Workshop/CODING_INTERVIEW_WORKSHOP.md)
 
 Use this workhop to improve your performance in live coding, technical interviews
 
 ## White-Boarding Challenge Interview (COMING SOON)
 
 Use this workshop to improve your perforamnce in white-boarding, technical interviews
+
+If you'd like to go directly to the rubrics, please find them below: 
+- [Behavioral/Technical Talk Interview Rubric DOCX](Behavioral_and_Technical_Talk_Interview_Workshop/Behavioral_and_Technical_Talk_Interview_Rubric.docx)
+- [Behavioral/Technical Talk Interview Rubric PDF](./Behavioral_and_Technical_Talk_Interview_Workshop/Behavioral_and_Technical_Talk_Interview_Rubric.pdf)
+- [Live Coding Interview Rubric DOCX](Live_Coding_Interview_Workshop/Live_Coding_Interview_Rubric.docx)
+- [Live Coding Interview Rubric PDF](Live_Coding_Interview_Workshop/Live_Coding_Interview_Rubric.pdf)
+- (COMING SOON) Whiteboarding Interview Rubric
 
 <div align="center">
   <br/>
