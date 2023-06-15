@@ -138,7 +138,7 @@ Some benefits to peer assessment are:
   <hr style="width: 70%"/>
   <br/>
   <picture name="resources">
-    <img alt="Resources" src="./assets/resources.png">
+    <img alt="Resources" src="./assets/articles.png">
   </picture>
 </div>
 
