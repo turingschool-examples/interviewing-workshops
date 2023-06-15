@@ -138,6 +138,8 @@ Some benefits to peer assessment are:
 
 ## [Interview Buddy](https://interviewbuddy.in/)
 
+## [Code Interview](https://codeinterview.io/)
+
 ## [Pramp](https://www.pramp.com/#/)
 
 ## [The Golden Rubric for Technical Interviews](https://medium.com/swlh/the-golden-rubric-for-technical-interviews-2f087ef2ba1)
@@ -175,5 +177,4 @@ Some benefits to peer assessment are:
   - Your contributions can help this repo improve and be more helpful to others who are hunting for work. 
   - If you want feedback on something, open an issue!
 - I know that each developer at Turing has a GitHub account and is familiar with using GitHub. That is not the case for other tools. 
-- The live coding workshop needed a repository anyawys. It's so much easier to maintain _one_ resource rather than 2. 
-  
+- One day, we may have built-in code challenges. They'd need a repo anyways, so this prevents us from needing multiple tools. 

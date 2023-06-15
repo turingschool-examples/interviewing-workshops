@@ -21,7 +21,7 @@
 
 ## 🗣️ Group Instructions:
 
-1. Gather a small group (3-8 people)
+1. Gather a small group (2-8 people)
 2. Select an interviewee and an interviewer. You may decide to have everyone act as the interviewer and ask questions.
 3. Ask the interviewee questions
     1. You can use ChatGPT to generate questions based on a job listing you found. (recommended)
