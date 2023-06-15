@@ -1,10 +1,17 @@
 
-![Interviewing Workshops & Job Hunting Resources](./assets/banner.png "Interviewing Workshops & Job Hunting Resources")
-🚧 UNDER CONSTRUCTION 🚧
+![Interviewing Workshops](./assets/banner.png "Interviewing Workshops")
 
-## This repository is home to various interviewing and job hunting resources, primarily including 3 workshops designed to be completed solo or in groups. This repository was created explicitly for job-seeking alumni and Mod 4 students and has activities to meet the needs of various stages of a career. 
+## This repository is home to 3 workshops designed to be completed solo or in groups. This repository was created explicitly for Mod 4 students and job-seeking alumni. 
 
 ## As Turing community members, please feel welcome to make PRs to add additional resources, fixes, adjustments or to interact witht this repository. 
+
+<div align="center">
+
+Click the image below to see a video introduction.
+
+[![Intro Video](./assets/video.png)](https://youtu.be/gLSt2lj5h3E "Intro Video")
+
+</div>
 
 <div align="center">
   <br/>
@@ -16,10 +23,10 @@
 </div>
 
 - [Workshops](#workshops)
-- [Articles](#articles)
 - [Usage](#usage)
 - [Involvement](#involvement)
 - [Justification](#value)
+- [Resources](#resources)
 - [Notes](#notes)
 
 <div align="center">
@@ -42,29 +49,6 @@ Use this workhop to improve your performance in live coding, technical interview
 ## White-Boarding Challenge Interview (COMING SOON)
 
 Use this workshop to improve your perforamnce in white-boarding, technical interviews
-
-<div align="center">
-  <br/>
-  <hr style="width: 70%"/>
-  <br/>
-  <picture name="articles">
-    <img alt="Articles" src="./assets/articles.png">
-  </picture>
-</div>
-
-## Finding Your Weakspot as a Job Hunter (COMING SOON)
-
-This article explains how you may identify potential issues in your job hunting flow. Use this to determine what skills to improve and practice.
-
-## Networking as a Developer (COMING SOON)
-
-This article overviews some examples of networking opportunities in Denver. You're encouraged to add addition information about other major cities! 
-
-## [Google's Interview Warm Up](https://grow.google/certificates/interview-warmup/)
-
-## [Interview Buddy](https://interviewbuddy.in/)
-
-## [Pramp](https://www.pramp.com/#/)
 
 <div align="center">
   <br/>
@@ -145,6 +129,27 @@ Some benefits to peer assessment are:
   <br/>
   <hr style="width: 70%"/>
   <br/>
+  <picture name="resources">
+    <img alt="Resources" src="./assets/resources.png">
+  </picture>
+</div>
+
+## [Google's Interview Warm Up](https://grow.google/certificates/interview-warmup/)
+
+## [Interview Buddy](https://interviewbuddy.in/)
+
+## [Pramp](https://www.pramp.com/#/)
+
+## [The Golden Rubric for Technical Interviews](https://medium.com/swlh/the-golden-rubric-for-technical-interviews-2f087ef2ba1)
+
+## [Google Coding Interview Rubric - An Inside Look](https://www.tryexponent.com/blog/google-coding-interview-rubric)
+
+## [4 Tips to Nail a Virtual Job Interview](https://hbr.org/2021/03/4-tips-to-nail-a-virtual-job-interview)
+
+<div align="center">
+  <br/>
+  <hr style="width: 70%"/>
+  <br/>
   <picture name="notes">
     <img alt="Notes" src="./assets/notes.png">
   </picture>
@@ -170,4 +175,5 @@ Some benefits to peer assessment are:
   - Your contributions can help this repo improve and be more helpful to others who are hunting for work. 
   - If you want feedback on something, open an issue!
 - I know that each developer at Turing has a GitHub account and is familiar with using GitHub. That is not the case for other tools. 
+- The live coding workshop needed a repository anyawys. It's so much easier to maintain _one_ resource rather than 2. 
   
