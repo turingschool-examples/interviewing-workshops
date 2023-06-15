@@ -40,11 +40,11 @@ Click the image below to see a video introduction.
 
 ## [Behavioral and Technical Talk Interview](./Behavioral_and_Technical_Talk_Interview_Workshop/TALK_INTERVIEW_WORKSHOP.md)
 
-Use this workhop to improve your performance in talking interviews. 
+Use this workshop to improve your performance in talking interviews. 
 
 ## [Live Coding Challenge Interview](./Live_Coding_Interview_Workshop/CODING_INTERVIEW_WORKSHOP.md)
 
-Use this workhop to improve your performance in live coding, technical interviews
+Use this workshop to improve your performance in live coding, technical interviews
 
 ## White-Boarding Challenge Interview (COMING SOON)
 
