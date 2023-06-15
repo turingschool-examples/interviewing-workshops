@@ -71,7 +71,8 @@ If you'd like to go directly to the rubrics, please find them below:
 ## Please find detailed instructions for each workshop here: 
 
 - [Behavioral and Technical Talk Interview](./Behavioral_and_Technical_Talk_Interview_Workshop/TALK_INTERVIEW_WORKSHOP.md)
-- Live Coding Challenge Interview (COMING SOON)
+- [Live Coding Challenge Interview](./Live_Coding_Interview_Workshop/CODING_INTERVIEW_WORKSHOP.md)
+
 - White-Boarding Challenge Interview (COMING SOON)
 
 ## For all other resources, simply click into them to read or use them.
